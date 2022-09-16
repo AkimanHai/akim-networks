@@ -22,8 +22,23 @@
   ![image](https://user-images.githubusercontent.com/22404268/190706334-5d037098-b4e9-4b3f-91fa-03f6f0949202.png)
   ![image](https://user-images.githubusercontent.com/22404268/190706496-59f1a7fd-6d92-4679-a06b-f10648116942.png)
 ## Часть 2. Создание сети и настройка основных параметров устройства
-  ок  
+### Шаг 1.
+  ![image](https://user-images.githubusercontent.com/22404268/190707587-e6618f39-e8db-4523-89cd-a2724b2baee7.png)
+  ![image](https://user-images.githubusercontent.com/22404268/190707707-86749efc-3163-4b82-a6a9-73a1a44ec2ca.png)
+  ![image](https://user-images.githubusercontent.com/22404268/190707831-dd35672e-125b-480e-a87b-3cf24c73b536.png)
+  ![image](https://user-images.githubusercontent.com/22404268/190708113-23ae42dc-ceb5-47b8-a8e0-be5838bc5a93.png)
+  Для чего нужна команда login? - как замок, чтобы можно было ввести пароль
+### Шаг 2.
+  ![image](https://user-images.githubusercontent.com/22404268/190708540-76e0dec5-23bc-4d77-9195-e96862a053b2.png)
 ## Часть 3. Проверка сетевых подключений
-  Отобразите конфигурацию устройства.
-  Протестируйте сквозное соединение, отправив эхо-запрос.
-  Протестируйте возможности удаленного управления с помощью Telnet.
+### Шаг 1.
+![image](https://user-images.githubusercontent.com/22404268/190708908-e9502d8e-f9b6-4e25-8e9a-0a90f2e3dffc.png)
+![image](https://user-images.githubusercontent.com/22404268/190709513-b0d0ae92-3a82-4366-ab77-bfa4e38d94a3.png)
+![image](https://user-images.githubusercontent.com/22404268/190709644-080c41a6-dff3-49c3-850b-e7eaedbea901.png)
+### Шаг 2.
+![image](https://user-images.githubusercontent.com/22404268/190710033-f5790ef7-28d2-46ff-81c0-553f6ad7e508.png)
+![image](https://user-images.githubusercontent.com/22404268/190710075-afe06bd8-9a8b-4f9d-a9e9-c76b4efe9dd7.png)
+![image](https://user-images.githubusercontent.com/22404268/190710718-569ca76c-9eb3-449d-b8d0-f75bf071466f.png)
+
+1.	Зачем необходимо настраивать пароль VTY для коммутатора? - иначе не сможем подключаться удаленно
+2.	Что нужно сделать, чтобы пароли не отправлялись в незашифрованном виде? - использовать  secret
