@@ -38,12 +38,18 @@
 ![image](https://user-images.githubusercontent.com/22404268/190708540-76e0dec5-23bc-4d77-9195-e96862a053b2.png)
 ## Часть 3. Проверка сетевых подключений
 ### Шаг 1.
-![image](https://user-images.githubusercontent.com/22404268/190708908-e9502d8e-f9b6-4e25-8e9a-0a90f2e3dffc.png)
-![image](https://user-images.githubusercontent.com/22404268/190709513-b0d0ae92-3a82-4366-ab77-bfa4e38d94a3.png)
+Вывел текущую конфигурацию коммутатора.  
+![image](https://user-images.githubusercontent.com/22404268/190708908-e9502d8e-f9b6-4e25-8e9a-0a90f2e3dffc.png)  
+![image](https://user-images.githubusercontent.com/22404268/190709513-b0d0ae92-3a82-4366-ab77-bfa4e38d94a3.png)  
+Проверил параметры vlan 1.  
 ![image](https://user-images.githubusercontent.com/22404268/190709644-080c41a6-dff3-49c3-850b-e7eaedbea901.png)
 ### Шаг 2.
-![image](https://user-images.githubusercontent.com/22404268/190710033-f5790ef7-28d2-46ff-81c0-553f6ad7e508.png)
-![image](https://user-images.githubusercontent.com/22404268/190710075-afe06bd8-9a8b-4f9d-a9e9-c76b4efe9dd7.png)
+Протестировал сквозное соединение, отправив эхо-запрос на сам компьютер и коммутатор.  
+![image](https://user-images.githubusercontent.com/22404268/190710033-f5790ef7-28d2-46ff-81c0-553f6ad7e508.png)  
+![image](https://user-images.githubusercontent.com/22404268/190710075-afe06bd8-9a8b-4f9d-a9e9-c76b4efe9dd7.png)  
+Проверил удаленное управление коммутатором S1.  
 ![image](https://user-images.githubusercontent.com/22404268/190710718-569ca76c-9eb3-449d-b8d0-f75bf071466f.png)
+
+
 1.	Зачем необходимо настраивать пароль VTY для коммутатора? - иначе не сможем подключаться удаленно
 2.	Что нужно сделать, чтобы пароли не отправлялись в незашифрованном виде? - использовать  secret
