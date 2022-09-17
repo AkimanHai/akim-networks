@@ -28,13 +28,14 @@
 ### Шаг 1.
 Ввёл базовые параметры коммутатора. Назначил IP- адрес.  
 ![image](https://user-images.githubusercontent.com/22404268/190707587-e6618f39-e8db-4523-89cd-a2724b2baee7.png)  
-Поставил пароли.
+Поставил пароли.  
 ![image](https://user-images.githubusercontent.com/22404268/190707707-86749efc-3163-4b82-a6a9-73a1a44ec2ca.png)  
 ![image](https://user-images.githubusercontent.com/22404268/190707831-dd35672e-125b-480e-a87b-3cf24c73b536.png)  
 ![image](https://user-images.githubusercontent.com/22404268/190708113-23ae42dc-ceb5-47b8-a8e0-be5838bc5a93.png)  
 Для чего нужна команда login? - как замок, чтобы можно было ввести пароль.
 ### Шаг 2.
-  ![image](https://user-images.githubusercontent.com/22404268/190708540-76e0dec5-23bc-4d77-9195-e96862a053b2.png)
+Настроил IP-адрес на компьютере PC-A.  
+![image](https://user-images.githubusercontent.com/22404268/190708540-76e0dec5-23bc-4d77-9195-e96862a053b2.png)
 ## Часть 3. Проверка сетевых подключений
 ### Шаг 1.
 ![image](https://user-images.githubusercontent.com/22404268/190708908-e9502d8e-f9b6-4e25-8e9a-0a90f2e3dffc.png)
