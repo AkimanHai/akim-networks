@@ -26,11 +26,13 @@
 ![image](https://user-images.githubusercontent.com/22404268/190706496-59f1a7fd-6d92-4679-a06b-f10648116942.png)
 ## Часть 2. Создание сети и настройка основных параметров устройства
 ### Шаг 1.
-  ![image](https://user-images.githubusercontent.com/22404268/190707587-e6618f39-e8db-4523-89cd-a2724b2baee7.png)
-  ![image](https://user-images.githubusercontent.com/22404268/190707707-86749efc-3163-4b82-a6a9-73a1a44ec2ca.png)
-  ![image](https://user-images.githubusercontent.com/22404268/190707831-dd35672e-125b-480e-a87b-3cf24c73b536.png)
-  ![image](https://user-images.githubusercontent.com/22404268/190708113-23ae42dc-ceb5-47b8-a8e0-be5838bc5a93.png)
-  Для чего нужна команда login? - как замок, чтобы можно было ввести пароль
+Ввёл базовые параметры коммутатора. Назначил IP- адрес.  
+![image](https://user-images.githubusercontent.com/22404268/190707587-e6618f39-e8db-4523-89cd-a2724b2baee7.png)  
+Поставил пароли.
+![image](https://user-images.githubusercontent.com/22404268/190707707-86749efc-3163-4b82-a6a9-73a1a44ec2ca.png)  
+![image](https://user-images.githubusercontent.com/22404268/190707831-dd35672e-125b-480e-a87b-3cf24c73b536.png)  
+![image](https://user-images.githubusercontent.com/22404268/190708113-23ae42dc-ceb5-47b8-a8e0-be5838bc5a93.png)  
+Для чего нужна команда login? - как замок, чтобы можно было ввести пароль.
 ### Шаг 2.
   ![image](https://user-images.githubusercontent.com/22404268/190708540-76e0dec5-23bc-4d77-9195-e96862a053b2.png)
 ## Часть 3. Проверка сетевых подключений
