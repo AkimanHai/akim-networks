@@ -19,8 +19,9 @@
 ## Шаг 1. Запишите МАС-адреса сетевых устройств.
 MAC-адрес компьютера PC-A: 0002.17ED.36D2  
 MAC-адрес компьютера PC-B: 0001.C737.3DE1
-![изображение](https://user-images.githubusercontent.com/22404268/192148079-809dc83e-88b8-46ca-a6cd-5135e43eadb2.png)
-
+![изображение](https://user-images.githubusercontent.com/22404268/192148079-809dc83e-88b8-46ca-a6cd-5135e43eadb2.png)  
+МАС-адрес коммутатора S1 Fast Ethernet 0/1: 0060.2f99.8d01 (bia 0060.2f99.8d01)  
+МАС-адрес коммутатора S2 Fast Ethernet 0/1: 0002.16c9.6106 (bia 0002.16c9.6106)  
 ##
 ##
 ##
