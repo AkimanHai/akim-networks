@@ -14,3 +14,4 @@
 ### c. Назначили cisco в качестве паролей консоли и VTY.
 ![изображение](https://user-images.githubusercontent.com/22404268/192137667-9edceaf8-5592-4fa0-949b-9403fe3de851.png)
 ### d. Назначьте class в качестве пароля доступа к привилегированному режиму EXEC.
+![изображение](https://user-images.githubusercontent.com/22404268/192146840-806df55b-455f-41d3-a8ec-2b21f3192b83.png)
