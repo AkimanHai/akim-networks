@@ -27,6 +27,7 @@ b. В привилегированном режиме EXEC введи коман
 Записаны ли в таблице МАС-адресов какие-либо МАС-адреса? - Записан МАС-адерес коммутатора 1  
 ![изображение](https://user-images.githubusercontent.com/22404268/192148755-0298f0af-5a0b-4346-8788-2bb1b1b6bab0.png)
 ## Шаг 3. Очистите таблицу МАС-адресов коммутатора S2 и снова отобразите таблицу МАС-адресов.
-![image](https://user-images.githubusercontent.com/22404268/192279620-d629e265-c116-4656-a276-d654ca4da29a.png)
+![image](https://user-images.githubusercontent.com/22404268/192279620-d629e265-c116-4656-a276-d654ca4da29a.png)  
 ## Шаг 4. С компьютера PC-B отправьте эхо-запросы устройствам в сети и просмотрите таблицу МАС-адресов коммутатора.
-Ничего не изменилось.
+![image](https://user-images.githubusercontent.com/22404268/192280660-e49ce395-491c-4567-bbb8-6ff5ef12d834.png)
+![image](https://user-images.githubusercontent.com/22404268/192280935-aef84e62-d6a9-4272-be9e-83201fe82ec2.png)
